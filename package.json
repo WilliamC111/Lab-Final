@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "kafkajs": "^2.2.4",
+    "socket.io": "^4.8.1"
+  }
+}
